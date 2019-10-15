@@ -14,8 +14,8 @@ Addition:
 Subtraction:
 1. Substitute for any subtractives in both values.
 2. Any symbols occurring in the second value are "crossed out" in the first.
-     a. If the symbol appears in the first, simply cross it out.
-     b. If not, then convert a "larger" symbol into appropriate multiples of the needed one, then cross out.
+  a. If the symbol appears in the first, simply cross it out.
+  b. If not, then convert a "larger" symbol into appropriate multiples of the needed one, then cross out.
 3. Rewrite without the crossed out symbols.
 4. Check for any groupings of the same symbol that needs to be replaced with a "larger" one.
 5. Compact the result by substituting subtractives where possible.
